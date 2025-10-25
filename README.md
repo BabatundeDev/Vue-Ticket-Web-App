@@ -2,15 +2,6 @@
 
 A sleek and responsive ticket management application built with Vue 3 and Vite. Easily manage tickets across teams and timelines with real-time updates, secure authentication, and a mobile-friendly interface.
 
-## 🚀 Live Demo
-
-- **Localhost**: `http://localhost:5173`
-- **GitHub Pages**: [https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)
-- **Netlify**: [https://your-project-name.netlify.app](https://your-project-name.netlify.app)
-- **Vercel**: [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
-
-> Replace the above URLs with your actual deployment links.
-
 ---
 
 ## ✨ Features
