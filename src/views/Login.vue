@@ -13,6 +13,8 @@
 </template>
 
 <script>
+import { toast } from 'vue3-toastify'
+
 export default {
   data() {
     return {
@@ -27,7 +29,8 @@ export default {
         this.error = 'Please fill in all fields'
         return
       }
-      localStorage.setItem('user', this.email)
+      localStorage.setItem('ticketapp_session', this.email)
+      toast.success('Login successful!')
       this.$router.push('/dashboard')
     }
   }
